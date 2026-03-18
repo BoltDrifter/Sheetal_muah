@@ -274,7 +274,7 @@ export default function Hero() {
               }}
             />
             <span style={{ fontFamily: 'var(--font-body)', fontSize: '0.75rem', color: 'var(--cream)', letterSpacing: '0.06em' }}>
-              Accepting Bookings 2025
+              Accepting Bookings 2026
             </span>
           </div>
           <div style={{ fontFamily: 'var(--font-display)', fontSize: '0.85rem', color: 'var(--gold)', marginTop: '0.3rem', fontStyle: 'italic' }}>
